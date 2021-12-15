@@ -24,3 +24,4 @@
     将sendRabbitMQMsg.json里的内容，通过RabbitMQ的管理界面，发送到dev-VideoCaptue队列，即可模拟java后端发起课程。
     msg.json里存储，算法处理后的传给java后端的消息
 # dangxiao-models
+# dangxiao-models
