@@ -1,0 +1,13 @@
+*.jpg
+*.png
+*-asset.json
+*.rar
+*.vott
+*.mp4
+__pycache__
+.ipynb_checkpoints
+data/classroom/to_label_cropped/
+key.json
+to_label_cropped_pose.json
+.DS_Store
+*.zip

@@ -1,0 +1,157 @@
+{
+    "taskType": "VIDEO",
+    "lessonId": "eedd76e89c83f0bc53d9c78c3b49b869",
+    "samplingNum": 10,
+    "time": "2021-12-19 14:00:00",
+    "samplingPeriod": 60,
+    "duration": 600,
+    "areaCountFlag": false,
+    "seatConfigFlag": true,
+    "faceRecognitionFlag": false,
+    "cameraNum": 1,
+    "cameraConfig": [
+      {
+        "cameraId": "78ce3978685bc62f8d077a082d7ae86b",
+        "video":"/data/workspace/yaojiapeng/dx.mp4",
+        "areaConfig": null,
+        "seatConfig": [
+          {
+            "seatListArea": [
+              {
+                "x": 17,
+                "y": 733
+              },
+              {
+                "x": 1191,
+                "y": 990
+              },
+              {
+                "x": 1337,
+                "y": 785
+              },
+              {
+                "x": 287,
+                "y": 586
+              }
+            ],
+            "seatNum": 4,
+            "userIdList": [
+              "589dd74b52592b388b65d52fe014fefd",
+              "5ab5c7f2a65fdd6b64dc576d04281b3b",
+              "c79065afb8bd5b57e33dacdc0a453bba",
+              "ec0eddfb37f33e893af58c5228ac49ae"
+            ]
+          },
+          {
+            "seatListArea": [
+              {
+                "x": 292,
+                "y": 579
+              },
+              {
+                "x": 1349,
+                "y": 781
+              },
+              {
+                "x": 1513,
+                "y": 584
+              },
+              {
+                "x": 534,
+                "y": 423
+              }
+            ],
+            "seatNum": 4,
+            "userIdList": [
+              "67491d93aa74b016838219e82a7c36c4",
+              "a0aa1b72aadbccd3e361a7d75d285bdf",
+              "fe942eef2ca979449dae083c18983b24",
+              "78b0eaa981c71effbae7c44e4f92677a"
+            ]
+          },
+          {
+            "seatListArea": [
+              {
+                "x": 542,
+                "y": 416
+              },
+              {
+                "x": 1514,
+                "y": 578
+              },
+              {
+                "x": 1666,
+                "y": 428
+              },
+              {
+                "x": 776,
+                "y": 307
+              }
+            ],
+            "seatNum": 4,
+            "userIdList": [
+              "01421f4756d069e640406b5f91b7b860",
+              "0622d01a16aea5ce352633fa3e73f479",
+              "0f6a8a66c6c7ff9ce517844a588d593f",
+              "2151b02a7389008a9ceb6469f4c24edc"
+            ]
+          },
+          {
+            "seatListArea": [
+              {
+                "x": 789,
+                "y": 302
+              },
+              {
+                "x": 1671,
+                "y": 423
+              },
+              {
+                "x": 1741,
+                "y": 326
+              },
+              {
+                "x": 937,
+                "y": 233
+              }
+            ],
+            "seatNum": 4,
+            "userIdList": [
+              "425a1ebc08bc98793faf6a444733075b",
+              "4802b4fcdf0fabe018dc34a7b77bf2c5",
+              "48886ada94d4e8807d306ca519a2d688",
+              "4aca786153f6c4d149d243df84e618f2"
+            ]
+          },
+          {
+            "seatListArea": [
+              {
+                "x": 942,
+                "y": 231
+              },
+              {
+                "x": 1748,
+                "y": 324
+              },
+              {
+                "x": 1819,
+                "y": 243
+              },
+              {
+                "x": 1046,
+                "y": 164
+              }
+            ],
+            "seatNum": 4,
+            "userIdList": [
+              "ceffe611dd3057ad168de3ded79355c5",
+              "b903f5aef53d1850622c601f7b112fcc",
+              "e0c38f937b7b1204903ca2282e7c3945",
+              "fdfec523e5e092ddb96bc2de5d9d1649"
+            ]
+          }
+        ]
+      }
+    ],
+    "faceConfig": null
+}

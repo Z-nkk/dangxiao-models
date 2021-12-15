@@ -1,0 +1,5 @@
+sleep
+raise_hand
+take_note
+use_phone
+others
